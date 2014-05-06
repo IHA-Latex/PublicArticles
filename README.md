@@ -12,13 +12,13 @@ The APA-6 style's documentation can be found [here](http://www.ctan.org/pkg/apa6
 The most important are listed below:
 
 * ```\abstract{Long text here}``` - Preamble
-* \title{Long title of publication} - Preamble
-* \shorttitle{Short title for header} - Preamble
-* \author{Author1 and Author2} - Preamble. Notice this is only from your own institute (see documentation for multiple institutes).
-* \affiliation{Your university} - Preamble
-* \leftheader{Last name of authors}  - Preamble (optional)
-* \abstract{Long abstract of your article} - Preamble
-* \keywords{keywords, listed, commas seperated }  - Preamble (optional)
+* ```\title{Long title of publication}``` - Preamble
+* ```\shorttitle{Short title for header}``` - Preamble
+* ```\author{Author1 and Author2}``` - Preamble. Notice this is only from your own institute (see documentation for multiple institutes).
+* ```\affiliation{Your university}``` - Preamble
+* ```\leftheader{Last name of authors}```  - Preamble (optional)
+* ```\abstract{Long abstract of your article}``` - Preamble
+* ```\keywords{keywords, listed, commas seperated}```  - Preamble (optional)
 
 ## The structure
 
